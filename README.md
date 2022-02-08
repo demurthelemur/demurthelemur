@@ -9,7 +9,7 @@
 - Feel free to reach me out on my twitter @DemirDereli1 or email workdemirdereli@gmail.com
 - Open for work / internship as an IOS / Swift Developer
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demurthelemur)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demurthelemur)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
 
 <!--
