@@ -8,6 +8,10 @@
 - Other than coding I am interested in Cooking, Photography, Drawing and other kinds of Visual Arts.
 - Feel free to reach me out on my twitter @DemirDereli1 or email workdemirdereli@gmail.com
 - Open for work / internship as an IOS / Swift Developer
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demurthelemur)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **demurthelemur/demurthelemur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
