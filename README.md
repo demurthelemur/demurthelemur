@@ -1,7 +1,8 @@
 ### Hello I am Demir, aka DemurTheLemur 👋
 - I am currently studying at Sabancı University to get my degree in Computer Sciences and Engineering👨🏻‍💻
-- I am mostly interested in IOS Application development and Web development (mainly front-end but learning to do back-end too.)
-- The languages that I am most comfortable with are (in order of most to least) Swift, Javascript, C++, Python, C. 
+- I am mostly interested in Mobile Development. I mainly do Native IOS Development but I am familiar with Flutter for cross platform apps.
+- I am also interested in Web Development but web development is in the back-burner.
+- The languages that I am most comfortable with are (in order of most to least) Swift, Javascript, C++, Python, C, Dart. 
 - Although I don't have much knowledge on these fields I am also interested in Hardware, Programming language development, OS development and other low level stuff. I hope to get more knowledge in these fields as time goes on.
 - I am kind of an apple fanboy and am interested in everything apple related.
 - Currently trying out Arch Linux (Manjaro) as a secondary OS.
