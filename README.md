@@ -5,10 +5,9 @@
 - The languages that I am most comfortable with are (in order of most to least) Swift, Javascript, C++, Python, C, Dart. 
 - Although I don't have much knowledge on these fields I am also interested in Hardware, Programming language development, OS development and other low level stuff. I hope to get more knowledge in these fields as time goes on.
 - I am kind of an apple fanboy and am interested in everything apple related.
-- Currently trying out Arch Linux (Manjaro) as a secondary OS.
 - Other than coding I am interested in Cooking, Photography, Drawing and other kinds of Visual Arts.
 - Feel free to reach me out on my twitter @DemirDereli1 or email workdemirdereli@gmail.com
-- Open for work / internship as an IOS / Swift Developer
+- Intern at Rapsodo
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demurthelemur&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
