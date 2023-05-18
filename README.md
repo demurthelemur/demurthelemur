@@ -3,7 +3,7 @@
 - Currently working at Rapsodo as an IOS Developer
 - I am an IOS Developer that focuses on SwiftUI and UIKit Development
 - I am also interested in Full-Stack Web Development, Computer Networks and Network Security, Distributed Systems
-- I mostly program in Swift but I also know Javascript, C++, C#, C, Dart. 
+- I mostly program in Swift but I also know Javascript, C++, C#, C, Python 
 - Hardly invested in the Apple Ecosystem
 - Feel free to reach me out on my twitter @demurthelemur or email workdemirdereli@gmail.com
 
