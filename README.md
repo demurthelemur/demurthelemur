@@ -7,8 +7,6 @@
 - Hardly invested in the Apple Ecosystem
 - Feel free to reach me out on my twitter @demurthelemur or email workdemirdereli@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demurthelemur&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **demurthelemur/demurthelemur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
