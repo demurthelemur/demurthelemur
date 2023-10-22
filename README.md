@@ -1,9 +1,9 @@
 ### Hello I am Demir, aka DemurTheLemur 👋
 - I am currently studying at Sabancı University to get my degree in Computer Sciences and Engineering👨🏻‍💻
-- Currently working at Rapsodo as an IOS Developer
-- I am an IOS Developer that focuses on SwiftUI and UIKit Development
-- I am also interested in Full-Stack Web Development, Computer Networks and Network Security, Distributed Systems
-- I mostly program in Swift but I also know Javascript, C++, C#, C, Python 
+- Currently working at Rapsodo as an IOS Developer / Web Developer
+- I work as an IOS Developer but I'm in the process of transitioning to Web Development
+- I am also interested in Full-Stack Web Development, Computer Graphics, Computer Networks and Network Security and Operating Systems
+- JS and Swift are my preffered languages but I also work with C/C++, C# and Python
 - Heavily invested in the Apple Ecosystem
 - Feel free to reach me out on my twitter @demurthelemur or email workdemirdereli@gmail.com
 
