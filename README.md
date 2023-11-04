@@ -1,6 +1,6 @@
 ### Hello I am Demir, aka DemurTheLemur 👋
 - I am currently studying at Sabancı University to get my degree in Computer Sciences and Engineering👨🏻‍💻
-- Currently working at Rapsodo as an IOS Developer / Web Developer
+- Currently working at Rapsodo as an IOS Developer Intern
 - I currently do more work as an IOS Developer but I'm in the process of transitioning to Web Development
 - I am also interested in Full-Stack Web Development, Computer Graphics, Computer Networks and Network Security and Operating Systems
 - JS and Swift are my preffered languages but I also work with C/C++, C# and Python
