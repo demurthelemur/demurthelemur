@@ -5,7 +5,7 @@
 - I am also interested in Full-Stack Web Development, Computer Graphics, Computer Networks, Network Security and Operating Systems
 - JS and Swift are my preffered languages but I also work with C/C++, C# and Python
 - Heavily invested in the Apple Ecosystem
-- Feel free to reach me out on my twitter @dderelidev or email workdemirdereli@gmail.com
+- Feel free to reach me out on my twitter @dderelidev or email demirdereli@outlook.com
 
 
 <!--
