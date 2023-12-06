@@ -6,7 +6,7 @@
 - Heavily invested in the Apple Ecosystem
 - Feel free to reach me out on my twitter @dderelidev or email demirdereli@outlook.com
 
-## Tech I Use
+## Things I use & Things that I'm Learning
 <p align='left'>
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" height="50" width="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS" height="50" width="50" />
@@ -25,7 +25,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="threejs" height="50" width="50" />  
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" height="50" width="50" />  
 </p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=demurthelemur)](https://git.io/streak-stats)
 <!--
 **demurthelemur/demurthelemur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
