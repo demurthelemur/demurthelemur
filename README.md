@@ -25,7 +25,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="threejs" height="50" width="50" />  
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" height="50" width="50" />  
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=demurthelemur)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=demurthelemur&theme=dark" alt="GitHub Streak" /></a>
 <!--
 **demurthelemur/demurthelemur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
