@@ -21,7 +21,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongo" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" height="50" width="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="threejs" height="50" width="50" />  
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" height="50" width="50" />  
 </p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=demurthelemur&theme=dark" alt="GitHub Streak" /></a>
